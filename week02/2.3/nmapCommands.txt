@@ -1,0 +1,23 @@
+nmap 10.0.5.21 -p 22
+nmap -n -vv -sn 10.0.5.21
+nmap -n -vv -sn 10.0.5.22
+nmap -n -vv -sn 10.0.5.23
+nmap -n -vv -sn 10.0.5.24
+nmap -n -vv -sn 10.0.5.25
+nmap -n -vv -sn 10.0.5.26
+nmap -n -vv -sn 10.0.5.27
+nmap -n -vv -sn 10.0.5.28
+nmap -sn 10.0.5.21
+sudo nmap 10.0.17.56 -p 9999
+sudo nmap 10.0.5.21
+sudo nmap 10.0.5.21 -p 22
+sudo nmap 10.0.5.31
+sudo nmap -A 10.0.17.56 -p 135,139,445,3389
+sudo nmap -A 10.0.17.56 -p 3389
+sudo nmap -n -vv -sn 10.0.5.21
+sudo nmap -Pn 10.0.5.21 -p 22
+sudo nmap -Pn 10.0.5.21 -p 3389
+sudo nmap -sn 10.0.5.21
+sudo nmap -sV 10.0.17.56 -p 135,139,445,3389
+sudo nmap -sV 10.0.17.56 -p 1-6000
+sudo nmap -sV 10.0.17.56 -p 3389

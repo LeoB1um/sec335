@@ -1,0 +1,3 @@
+samwise:x:500:500::/home/samwise:/bin/bash
+deployer:x:501:501::/home/deployer:/bin/bash
+firefart:ficoKR.2AsYAs:0:0:pwned:/root:/bin/bash

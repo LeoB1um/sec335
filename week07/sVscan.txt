@@ -1,0 +1,4 @@
+# Nmap 7.95 scan initiated Tue Feb 24 10:08:29 2026 as: /usr/lib/nmap/nmap -sV -oG sVscan.txt 10.0.5.25
+Host: 10.0.5.25 ()	Status: Up
+Host: 10.0.5.25 ()	Ports: 21/open/tcp//ftp//vsftpd 3.0.2/, 22/open/tcp//ssh//OpenSSH 7.4 (protocol 2.0)/, 80/open/tcp//http//Apache httpd 2.4.6 ((CentOS) PHP|7.3.31)/	Ignored State: filtered (997)
+# Nmap done at Tue Feb 24 10:08:41 2026 -- 1 IP address (1 host up) scanned in 11.93 seconds

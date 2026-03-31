@@ -1,0 +1,5 @@
+GET /sqli-labs/Less-1/?id=-1' HTTP/1.1
+Host: 127.0.0.1:8090
+User-Agent: Mozilla/5.0
+Accept: */*
+Connection: close:

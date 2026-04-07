@@ -1,0 +1,5 @@
+weapons
+staff
+glamdring
+narya
+shallnotpass
